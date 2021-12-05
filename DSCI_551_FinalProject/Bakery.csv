@@ -1,0 +1,79 @@
+,_c0,order_id,add_to_cart_order,product_id,product_name,aisle_id,aisle,department_id,department,user_id,features,prediction
+26,26,280,9,21137,Organic Strawberries,24,fresh fruits,4,produce,1059,"[280.0,9.0,21137.0,24.0,4.0,1059.0]",1
+27,27,637,2,21137,Organic Strawberries,24,fresh fruits,4,produce,1177,"[637.0,2.0,21137.0,24.0,4.0,1177.0]",1
+28,28,3449,3,21137,Organic Strawberries,24,fresh fruits,4,produce,208,"[3449.0,3.0,21137.0,24.0,4.0,208.0]",1
+30,30,280,5,19057,Organic Large Extra Fancy Fuji Apple,24,fresh fruits,4,produce,1059,"[280.0,5.0,19057.0,24.0,4.0,1059.0]",1
+33,33,280,28,17600,"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",120,yogurt,16,dairy eggs,1059,"[280.0,28.0,17600.0,120.0,16.0,1059.0]",1
+35,35,280,27,21387,Non-Fat Vanilla Yogurt,120,yogurt,16,dairy eggs,1059,"[280.0,27.0,21387.0,120.0,16.0,1059.0]",1
+38,38,280,3,23102,Organic 1% Milk,84,milk,16,dairy eggs,1059,"[280.0,3.0,23102.0,84.0,16.0,1059.0]",1
+39,39,280,8,22035,Organic Whole String Cheese,21,packaged cheese,16,dairy eggs,1059,"[280.0,8.0,22035.0,21.0,16.0,1059.0]",1
+40,40,2445,4,22035,Organic Whole String Cheese,21,packaged cheese,16,dairy eggs,816,"[2445.0,4.0,22035.0,21.0,16.0,816.0]",1
+45,45,280,20,17284,Organic Sugar Snap Peas,83,fresh vegetables,4,produce,1059,"[280.0,20.0,17284.0,83.0,4.0,1059.0]",1
+54,54,280,10,17708,Organic Corn Tortillas,128,tortillas flat bread,3,bakery,1059,"[280.0,10.0,17708.0,128.0,3.0,1059.0]",1
+58,58,280,14,21607,Gluten Free Vanilla Granola,57,granola,14,breakfast,1059,"[280.0,14.0,21607.0,57.0,14.0,1059.0]",1
+59,59,280,11,25936,EnviroKidz Gluten Free & Wheat Free Gorilla Munch Corn Puff Cereal,121,cereal,14,breakfast,1059,"[280.0,11.0,25936.0,121.0,14.0,1059.0]",1
+63,63,4890,6,22124,Total 0% Raspberry Yogurt,120,yogurt,16,dairy eggs,451,"[4890.0,6.0,22124.0,120.0,16.0,451.0]",1
+66,66,4890,7,24838,Unsweetened Almondmilk,91,soy lactosefree,16,dairy eggs,451,"[4890.0,7.0,24838.0,91.0,16.0,451.0]",1
+67,67,4890,1,24852,Banana,24,fresh fruits,4,produce,451,"[4890.0,1.0,24852.0,24.0,4.0,451.0]",1
+68,68,2199,1,24852,Banana,24,fresh fruits,4,produce,150,"[2199.0,1.0,24852.0,24.0,4.0,150.0]",1
+69,69,5293,3,24852,Banana,24,fresh fruits,4,produce,585,"[5293.0,3.0,24852.0,24.0,4.0,585.0]",1
+70,70,214,4,24852,Banana,24,fresh fruits,4,produce,503,"[214.0,4.0,24852.0,24.0,4.0,503.0]",1
+71,71,1770,2,24852,Banana,24,fresh fruits,4,produce,678,"[1770.0,2.0,24852.0,24.0,4.0,678.0]",1
+84,84,214,8,25890,Boneless Skinless Chicken Breasts,49,packaged poultry,12,meat seafood,503,"[214.0,8.0,25890.0,49.0,12.0,503.0]",1
+102,102,5743,1,23288,Distilled Water,115,water seltzer sparkling water,7,beverages,1173,"[5743.0,1.0,23288.0,115.0,7.0,1173.0]",1
+103,103,5743,10,20113,Organic Gluten Free Buckwheat Wildberry Waffles,52,frozen breakfast,1,frozen,1173,"[5743.0,10.0,20113.0,52.0,1.0,1173.0]",1
+111,111,2445,35,24964,Organic Garlic,83,fresh vegetables,4,produce,816,"[2445.0,35.0,24964.0,83.0,4.0,816.0]",1
+112,112,2445,36,24184,Red Peppers,83,fresh vegetables,4,produce,816,"[2445.0,36.0,24184.0,83.0,4.0,816.0]",1
+119,119,2445,12,21616,Organic Baby Arugula,123,packaged vegetables fruits,4,produce,816,"[2445.0,12.0,21616.0,123.0,4.0,816.0]",1
+122,122,2445,27,14976,Organic Paprika,104,spices seasonings,13,pantry,816,"[2445.0,27.0,14976.0,104.0,13.0,816.0]",1
+131,131,2445,8,14399,Limeade,31,refrigerated,7,beverages,816,"[2445.0,8.0,14399.0,31.0,7.0,816.0]",1
+139,139,4163,3,20320,Lactose and Fat Free Milk,84,milk,16,dairy eggs,222,"[4163.0,3.0,20320.0,84.0,16.0,222.0]",1
+146,146,3733,15,21938,Green Bell Pepper,83,fresh vegetables,4,produce,605,"[3733.0,15.0,21938.0,83.0,4.0,605.0]",1
+163,163,3733,8,19310,Mashed Sweet Potatoes,129,frozen appetizers sides,1,frozen,605,"[3733.0,8.0,19310.0,129.0,1.0,605.0]",1
+164,164,3733,12,14726,"""Mini 8"""" Italian Pizza Crusts""",79,frozen pizza,1,frozen,605,"[3733.0,12.0,14726.0,79.0,1.0,605.0]",1
+171,171,2199,6,16953,Creamy Peanut Butter,88,spreads,13,pantry,150,"[2199.0,6.0,16953.0,88.0,13.0,150.0]",1
+172,172,2199,10,24600,Extra Strength Assorted Fruit Antacid,70,digestion,11,personal care,150,"[2199.0,10.0,24600.0,70.0,11.0,150.0]",1
+173,173,2199,2,17616,Goldfish Cheddar Baked Snack Crackers,78,crackers,19,snacks,150,"[2199.0,2.0,17616.0,78.0,19.0,150.0]",1
+178,178,2199,11,18811,Organic Apple Juice,98,juice nectars,7,beverages,150,"[2199.0,11.0,18811.0,98.0,7.0,150.0]",1
+183,183,3245,13,23955,Vanilla Soy Milk,91,soy lactosefree,16,dairy eggs,917,"[3245.0,13.0,23955.0,91.0,16.0,917.0]",1
+184,184,3245,10,22959,Reduced Fat Milk 100% Lactose Free,91,soy lactosefree,16,dairy eggs,917,"[3245.0,10.0,22959.0,91.0,16.0,917.0]",1
+186,186,3245,12,21553,Lowfat 2% Milkfat Cottage Cheese,108,other creams cheeses,16,dairy eggs,917,"[3245.0,12.0,21553.0,108.0,16.0,917.0]",1
+190,190,3245,8,16797,Strawberries,24,fresh fruits,4,produce,917,"[3245.0,8.0,16797.0,24.0,4.0,917.0]",1
+191,191,3245,16,18963,Apple Cider Vinegar,19,oils vinegars,13,pantry,917,"[3245.0,16.0,18963.0,19.0,13.0,917.0]",1
+194,194,3245,17,24382,Ranch Dressing,89,salad dressing toppings,13,pantry,917,"[3245.0,17.0,24382.0,89.0,13.0,917.0]",1
+195,195,3245,3,18439,Sliced Sourdough Bread,112,bread,3,bakery,917,"[3245.0,3.0,18439.0,112.0,3.0,917.0]",1
+197,197,3245,4,17615,Calcium Pulp Free Orange Juice,31,refrigerated,7,beverages,917,"[3245.0,4.0,17615.0,31.0,7.0,917.0]",1
+199,199,3245,9,20995,Organic Broccoli Florets,116,frozen produce,1,frozen,917,"[3245.0,9.0,20995.0,116.0,1.0,917.0]",1
+201,201,3245,1,26250,Mini Pancakes,52,frozen breakfast,1,frozen,917,"[3245.0,1.0,26250.0,52.0,1.0,917.0]",1
+210,210,637,4,24841,Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs,107,chips pretzels,19,snacks,1177,"[637.0,4.0,24841.0,107.0,19.0,1177.0]",1
+211,211,637,5,14633,Veggie Chips,107,chips pretzels,19,snacks,1177,"[637.0,5.0,14633.0,107.0,19.0,1177.0]",1
+228,228,3927,10,19820,Grassmilk 2% Reduced Fat Milk,84,milk,16,dairy eggs,583,"[3927.0,10.0,19820.0,84.0,16.0,583.0]",1
+229,229,3927,20,18531,Organic Heavy Whipping Cream,53,cream,16,dairy eggs,583,"[3927.0,20.0,18531.0,53.0,16.0,583.0]",1
+233,233,3927,8,20114,Jalapeno Peppers,83,fresh vegetables,4,produce,583,"[3927.0,8.0,20114.0,83.0,4.0,583.0]",1
+235,235,3927,13,21903,Organic Baby Spinach,123,packaged vegetables fruits,4,produce,583,"[3927.0,13.0,21903.0,123.0,4.0,583.0]",1
+238,238,3927,9,18159,Organic Biologique Limes,123,packaged vegetables fruits,4,produce,583,"[3927.0,9.0,18159.0,123.0,4.0,583.0]",1
+250,250,3927,18,22672,Pasta Zero Spaghetti Shirataki Noodles,14,tofu meat alternatives,20,deli,583,"[3927.0,18.0,22672.0,14.0,20.0,583.0]",1
+251,251,3927,17,22963,Organic Roasted Turkey Breast,96,lunch meat,20,deli,583,"[3927.0,17.0,22963.0,96.0,20.0,583.0]",1
+258,258,214,6,25093,Colby Jack Cheese,21,packaged cheese,16,dairy eggs,503,"[214.0,6.0,25093.0,21.0,16.0,503.0]",1
+261,261,214,7,25043,Instant Oatmeal Variety Pack,130,hot cereal pancake mixes,14,breakfast,503,"[214.0,7.0,25043.0,130.0,14.0,503.0]",1
+264,264,214,5,21329,Organic Hearty Split Pea & Uncured Ham Soup,69,soup broth bouillon,15,canned goods,503,"[214.0,5.0,21329.0,69.0,15.0,503.0]",1
+265,265,1770,14,22750,Finely Shredded Mild Cheddar Cheese,21,packaged cheese,16,dairy eggs,678,"[1770.0,14.0,22750.0,21.0,16.0,678.0]",1
+267,267,1770,9,17122,Honeycrisp Apples,24,fresh fruits,4,produce,678,"[1770.0,9.0,17122.0,24.0,4.0,678.0]",1
+271,271,1770,1,26456,Italian Pizza Crust Original 12oz,128,tortillas flat bread,3,bakery,678,"[1770.0,1.0,26456.0,128.0,3.0,678.0]",1
+278,278,1770,7,23037,Singles Pepperoni French Bread Pizzas,79,frozen pizza,1,frozen,678,"[1770.0,7.0,23037.0,79.0,1.0,678.0]",1
+289,289,4864,5,20738,Plain Bagels,93,breakfast bakery,3,bakery,1072,"[4864.0,5.0,20738.0,93.0,3.0,1072.0]",1
+290,290,4595,4,20738,Plain Bagels,93,breakfast bakery,3,bakery,66,"[4595.0,4.0,20738.0,93.0,3.0,66.0]",1
+291,291,4864,11,19542,Organic Green Superfood Chocolate Chip Coconut Bar,3,energy granola bars,19,snacks,1072,"[4864.0,11.0,19542.0,3.0,19.0,1072.0]",1
+300,300,4864,2,17158,Classic Cosmic Cranberry Kombucha,27,beers coolers,5,alcohol,1072,"[4864.0,2.0,17158.0,27.0,5.0,1072.0]",1
+306,306,3449,1,22888,90% Lean Ground Beef,122,meat counter,12,meat seafood,208,"[3449.0,1.0,22888.0,122.0,12.0,208.0]",1
+308,308,3449,4,24333,Peach Mango Iced Green Tea,94,tea,7,beverages,208,"[3449.0,4.0,24333.0,94.0,7.0,208.0]",1
+312,312,4515,1,20598,Thousand Island Salad Snax,50,fruit vegetable snacks,19,snacks,652,"[4515.0,1.0,20598.0,50.0,19.0,652.0]",1
+314,314,1520,2,26767,No Calorie Sweetener Packets,17,baking ingredients,13,pantry,787,"[1520.0,2.0,26767.0,17.0,13.0,787.0]",1
+319,319,5010,1,23147,Gut Shot Classic,110,pickled goods olives,13,pantry,824,"[5010.0,1.0,23147.0,110.0,13.0,824.0]",1
+320,320,5010,3,17272,Gut Shot Garlic Dill Pickle,110,pickled goods olives,13,pantry,824,"[5010.0,3.0,17272.0,110.0,13.0,824.0]",1
+322,322,4307,1,25557,Black Tie Frosted Cupcake,8,bakery desserts,3,bakery,173,"[4307.0,1.0,25557.0,8.0,3.0,173.0]",1
+323,323,1483,9,16464,Sweet & Salty Nut Almond Granola Bars,3,energy granola bars,19,snacks,90,"[1483.0,9.0,16464.0,3.0,19.0,90.0]",1
+328,328,1483,12,20985,Trail Mix Fruit & Nut Chewy Granola Bars,3,energy granola bars,19,snacks,90,"[1483.0,12.0,20985.0,3.0,19.0,90.0]",1
+331,331,1483,8,18352,Flax Plus Organic Pumpkin Flax Granola,57,granola,14,breakfast,90,"[1483.0,8.0,18352.0,57.0,14.0,90.0]",1
+332,332,1483,5,19204,Organic Heritage Flakes Cereal,121,cereal,14,breakfast,90,"[1483.0,5.0,19204.0,121.0,14.0,90.0]",1
+342,342,3529,1,17261,2nd Foods Organic  Pear and Spinach Baby Food,92,baby food formula,18,babies,286,"[3529.0,1.0,17261.0,92.0,18.0,286.0]",1

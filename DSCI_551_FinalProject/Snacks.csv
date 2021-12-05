@@ -1,0 +1,60 @@
+,_c0,order_id,add_to_cart_order,product_id,product_name,aisle_id,aisle,department_id,department,user_id,features,prediction
+0,0,5640,9,33120,Organic Egg Whites,86,eggs,16,dairy eggs,155,"[5640.0,9.0,33120.0,86.0,16.0,155.0]",0
+8,8,5640,3,35522,Strawberry Protein Shake,98,juice nectars,7,beverages,155,"[5640.0,3.0,35522.0,98.0,7.0,155.0]",0
+10,10,5640,10,30795,Sesame Seaweed Salad,13,prepared meals,20,deli,155,"[5640.0,10.0,30795.0,13.0,20.0,155.0]",0
+13,13,5640,4,31869,Organic Edamame,116,frozen produce,1,frozen,155,"[5640.0,4.0,31869.0,116.0,1.0,155.0]",0
+14,14,5640,2,28137,Chicken & Vegetable Dumplings Potstickers,129,frozen appetizers sides,1,frozen,155,"[5640.0,2.0,28137.0,129.0,1.0,155.0]",0
+32,32,280,6,30233,Organic Large Brown Grade AA Cage Free Eggs,86,eggs,16,dairy eggs,1059,"[280.0,6.0,30233.0,86.0,16.0,1059.0]",0
+34,34,280,1,29672,Lactose Free Low Fat Vanilla Yogurt,120,yogurt,16,dairy eggs,1059,"[280.0,1.0,29672.0,120.0,16.0,1059.0]",0
+47,47,280,26,31717,Organic Cilantro,16,fresh herbs,4,produce,1059,"[280.0,26.0,31717.0,16.0,4.0,1059.0]",0
+53,53,280,12,36792,Gluten Free Omega Flax & Fiber Bread,112,bread,3,bakery,1059,"[280.0,12.0,36792.0,112.0,3.0,1059.0]",0
+57,57,280,18,31238,Blue Corn Tortilla Chips,107,chips pretzels,19,snacks,1059,"[280.0,18.0,31238.0,107.0,19.0,1059.0]",0
+62,62,4890,4,33754,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,yogurt,16,dairy eggs,451,"[4890.0,4.0,33754.0,120.0,16.0,451.0]",0
+80,80,40,4,34866,Chocolate Milk 1% Milkfat,84,milk,16,dairy eggs,382,"[40.0,4.0,34866.0,84.0,16.0,382.0]",0
+88,88,40,3,33198,Sparkling Natural Mineral Water,115,water seltzer sparkling water,7,beverages,382,"[40.0,3.0,33198.0,115.0,7.0,382.0]",0
+94,94,5743,4,35851,Organic Greek Lowfat Yogurt With Cherries,120,yogurt,16,dairy eggs,1173,"[5743.0,4.0,35851.0,120.0,16.0,1173.0]",0
+98,98,5743,9,27966,Organic Raspberries,123,packaged vegetables fruits,4,produce,1173,"[5743.0,9.0,27966.0,123.0,4.0,1173.0]",0
+99,99,1770,12,27966,Organic Raspberries,123,packaged vegetables fruits,4,produce,678,"[1770.0,12.0,27966.0,123.0,4.0,678.0]",0
+107,107,2445,7,33731,Grated Parmesan,21,packaged cheese,16,dairy eggs,816,"[2445.0,7.0,33731.0,21.0,16.0,816.0]",0
+121,121,2445,24,34126,Organic Italian Parsley Bunch,16,fresh herbs,4,produce,816,"[2445.0,24.0,34126.0,16.0,4.0,816.0]",0
+124,124,2445,26,33792,Organic Smoked Paprika,104,spices seasonings,13,pantry,816,"[2445.0,26.0,33792.0,104.0,13.0,816.0]",0
+125,125,2445,25,28535,Cucumber & Garlic  Tzatziki,51,preserved dips spreads,13,pantry,816,"[2445.0,25.0,28535.0,51.0,13.0,816.0]",0
+126,126,2445,14,31040,Sea Salt Pita Chips,107,chips pretzels,19,snacks,816,"[2445.0,14.0,31040.0,107.0,19.0,816.0]",0
+129,129,2445,18,36506,Extra Cheesy Cheddar Bunnies Crackers,78,crackers,19,snacks,816,"[2445.0,18.0,36506.0,78.0,19.0,816.0]",0
+130,130,2445,10,34050,Orange Juice,31,refrigerated,7,beverages,816,"[2445.0,10.0,34050.0,31.0,7.0,816.0]",0
+134,134,2445,11,32734,Spaghetti,131,dry pasta,9,dry goods pasta,816,"[2445.0,11.0,32734.0,131.0,9.0,816.0]",0
+142,142,4163,2,28599,Flavor Variety Instant Oatmeal,130,hot cereal pancake mixes,14,breakfast,222,"[4163.0,2.0,28599.0,130.0,14.0,222.0]",0
+143,143,3733,20,29127,Dairy Free Unsweetened Coconut Milk,91,soy lactosefree,16,dairy eggs,605,"[3733.0,20.0,29127.0,91.0,16.0,605.0]",0
+147,147,3733,18,34358,Garlic,83,fresh vegetables,4,produce,605,"[3733.0,18.0,34358.0,83.0,4.0,605.0]",0
+150,150,3733,2,32163,Hot Salsa,51,preserved dips spreads,13,pantry,605,"[3733.0,2.0,32163.0,51.0,13.0,605.0]",0
+151,151,3733,16,30950,Mild Banana Pepper Rings,110,pickled goods olives,13,pantry,605,"[3733.0,16.0,30950.0,110.0,13.0,605.0]",0
+154,154,3733,3,37417,Gluten Free Pretzel Twists,107,chips pretzels,19,snacks,605,"[3733.0,3.0,37417.0,107.0,19.0,605.0]",0
+161,161,3733,19,34321,Original Pepperoni,96,lunch meat,20,deli,605,"[3733.0,19.0,34321.0,96.0,20.0,605.0]",0
+165,165,3558,3,35503,Organic Vanilla Almond Milk,91,soy lactosefree,16,dairy eggs,818,"[3558.0,3.0,35503.0,91.0,16.0,818.0]",0
+175,175,2199,14,35518,Frosted Chocolate Cup Cakes  with Creamy Filling,61,cookies cakes,19,snacks,150,"[2199.0,14.0,35518.0,61.0,19.0,150.0]",0
+181,181,2199,4,33313,Dark Sumatra Ground Coffee,26,coffee,7,beverages,150,"[2199.0,4.0,33313.0,26.0,7.0,150.0]",0
+182,182,2199,13,36393,Eggo Buttermilk Waffles,52,frozen breakfast,1,frozen,150,"[2199.0,13.0,36393.0,52.0,1.0,150.0]",0
+196,196,3245,15,31670,Buttermilk Complete Pancake Mix,130,hot cereal pancake mixes,14,breakfast,917,"[3245.0,15.0,31670.0,130.0,14.0,917.0]",0
+200,200,3245,7,30696,Eggo Homestyle Waffles,52,frozen breakfast,1,frozen,917,"[3245.0,7.0,30696.0,52.0,1.0,917.0]",0
+208,208,637,3,34949,Hand Picked Pomegranate Seeds/Arils,123,packaged vegetables fruits,4,produce,1177,"[637.0,3.0,34949.0,123.0,4.0,1177.0]",0
+217,217,4572,2,36107,smartwater® Electrolyte Enhanced Water,115,water seltzer sparkling water,7,beverages,787,"[4572.0,2.0,36107.0,115.0,7.0,787.0]",0
+218,218,1520,5,36107,smartwater® Electrolyte Enhanced Water,115,water seltzer sparkling water,7,beverages,787,"[1520.0,5.0,36107.0,115.0,7.0,787.0]",0
+224,224,5293,2,34197,Goat Milk,84,milk,16,dairy eggs,585,"[5293.0,2.0,34197.0,84.0,16.0,585.0]",0
+232,232,3927,16,35547,Organic Baby Kale,83,fresh vegetables,4,produce,583,"[3927.0,16.0,35547.0,83.0,4.0,583.0]",0
+234,234,3927,5,31553,Fresh Ginger Root,83,fresh vegetables,4,produce,583,"[3927.0,5.0,31553.0,83.0,4.0,583.0]",0
+239,239,3927,21,29274,Mung Bean Sprouts,123,packaged vegetables fruits,4,produce,583,"[3927.0,21.0,29274.0,123.0,4.0,583.0]",0
+242,242,3927,7,28842,Bunched Cilantro,16,fresh herbs,4,produce,583,"[3927.0,7.0,28842.0,16.0,4.0,583.0]",0
+256,256,2593,4,32486,Shredded 3 Cheese Blend,21,packaged cheese,16,dairy eggs,206,"[2593.0,4.0,32486.0,21.0,16.0,206.0]",0
+260,260,214,3,37053,Just Mayo,72,condiments,13,pantry,503,"[214.0,3.0,37053.0,72.0,13.0,503.0]",0
+273,273,1770,10,30661,Lower Sugar Maple & Brown Sugar Instant Oatmeal,130,hot cereal pancake mixes,14,breakfast,678,"[1770.0,10.0,30661.0,130.0,14.0,678.0]",0
+279,279,1770,16,34203,Natural Applesauce Snack & Go Pouches,99,canned fruit applesauce,15,canned goods,678,"[1770.0,16.0,34203.0,99.0,15.0,678.0]",0
+282,282,988,2,28464,"Whipped Light Cream, Original",53,cream,16,dairy eggs,310,"[988.0,2.0,28464.0,53.0,16.0,310.0]",0
+287,287,4864,10,28601,Collard Greens,83,fresh vegetables,4,produce,1072,"[4864.0,10.0,28601.0,83.0,4.0,1072.0]",0
+297,297,4864,1,30776,Organic Raw Kombucha Gingerade,31,refrigerated,7,beverages,1072,"[4864.0,1.0,30776.0,31.0,7.0,1072.0]",0
+309,309,3449,5,27872,Zero Calorie Iced Green Tea Raspberry,94,tea,7,beverages,208,"[3449.0,5.0,27872.0,94.0,7.0,208.0]",0
+311,311,4515,3,35140,Organic Whole Cashews,117,nuts seeds dried fruit,19,snacks,652,"[4515.0,3.0,35140.0,117.0,19.0,652.0]",0
+317,317,4595,1,31829,Creme De Menthe Thins,45,candy chocolate,19,snacks,66,"[4595.0,1.0,31829.0,45.0,19.0,66.0]",0
+318,318,4595,2,32226,Milk Chocolate English Toffee Miniatures Candy Bars,45,candy chocolate,19,snacks,66,"[4595.0,2.0,32226.0,45.0,19.0,66.0]",0
+321,321,5010,2,34040,Organic Gut Shot Ginger Beet Probiotic Drink,81,canned jarred vegetables,15,canned goods,824,"[5010.0,2.0,34040.0,81.0,15.0,824.0]",0
+329,329,1483,2,27582,Dark Chocolate Minis,45,candy chocolate,19,snacks,90,"[1483.0,2.0,27582.0,45.0,19.0,90.0]",0
+330,330,1483,1,32818,Organic Pink Lemonade Bunny Fruit Snacks,50,fruit vegetable snacks,19,snacks,90,"[1483.0,1.0,32818.0,50.0,19.0,90.0]",0

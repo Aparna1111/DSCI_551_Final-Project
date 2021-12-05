@@ -1,0 +1,71 @@
+,_c0,order_id,add_to_cart_order,product_id,product_name,aisle_id,aisle,department_id,department,user_id,features,prediction
+2,2,5640,7,47209,Organic Hass Avocado,24,fresh fruits,4,produce,155,"[5640.0,7.0,47209.0,24.0,4.0,155.0]",5
+3,3,5743,3,47209,Organic Hass Avocado,24,fresh fruits,4,produce,1173,"[5743.0,3.0,47209.0,24.0,4.0,1173.0]",5
+5,5,2593,5,47209,Organic Hass Avocado,24,fresh fruits,4,produce,206,"[2593.0,5.0,47209.0,24.0,4.0,206.0]",5
+9,9,5640,8,39968,Miso Soup,1,prepared soups salads,20,deli,155,"[5640.0,8.0,39968.0,1.0,20.0,155.0]",5
+12,12,5640,11,42342,Roasted Turkey Breast,96,lunch meat,20,deli,155,"[5640.0,11.0,42342.0,96.0,20.0,155.0]",5
+41,41,280,4,44765,Colby Cheese Sticks,21,packaged cheese,16,dairy eggs,1059,"[280.0,4.0,44765.0,21.0,16.0,1059.0]",5
+43,43,280,25,44359,Organic Small Bunch Celery,83,fresh vegetables,4,produce,1059,"[280.0,25.0,44359.0,83.0,4.0,1059.0]",5
+44,44,3927,23,44359,Organic Small Bunch Celery,83,fresh vegetables,4,produce,583,"[3927.0,23.0,44359.0,83.0,4.0,583.0]",5
+46,46,280,7,47766,Organic Avocado,24,fresh fruits,4,produce,1059,"[280.0,7.0,47766.0,24.0,4.0,1059.0]",5
+48,48,280,19,45002,Organic Balsamic Vinegar Of Modena,19,oils vinegars,13,pantry,1059,"[280.0,19.0,45002.0,19.0,13.0,1059.0]",5
+51,51,280,15,38293,Ground Turkey Breast,35,poultry counter,12,meat seafood,1059,"[280.0,15.0,38293.0,35.0,12.0,1059.0]",5
+65,65,4890,5,46676,Total 0% Nonfat Greek Yogurt,120,yogurt,16,dairy eggs,451,"[4890.0,5.0,46676.0,120.0,16.0,451.0]",5
+73,73,4890,2,47626,Large Lemon,24,fresh fruits,4,produce,451,"[4890.0,2.0,47626.0,24.0,4.0,451.0]",5
+92,92,40,2,42450,Macaroni & Cheese,38,frozen meals,1,frozen,382,"[40.0,2.0,42450.0,38.0,1.0,382.0]",5
+93,93,1520,4,42450,Macaroni & Cheese,38,frozen meals,1,frozen,787,"[1520.0,4.0,42450.0,38.0,1.0,787.0]",5
+95,95,5743,8,45210,Organic Greek Lowfat Yogurt With Blueberries,120,yogurt,16,dairy eggs,1173,"[5743.0,8.0,45210.0,120.0,16.0,1173.0]",5
+97,97,5743,5,38647,Organic Raw Sharp Cheddar Cheese,21,packaged cheese,16,dairy eggs,1173,"[5743.0,5.0,38647.0,21.0,16.0,1173.0]",5
+105,105,2445,2,43643,Organic Strawana Probugs Kefir,120,yogurt,16,dairy eggs,816,"[2445.0,2.0,43643.0,120.0,16.0,816.0]",5
+106,106,2445,20,40604,Feta Cheese Crumbles,21,packaged cheese,16,dairy eggs,816,"[2445.0,20.0,40604.0,21.0,16.0,816.0]",5
+114,114,2445,5,38739,Hass Avocado,83,fresh vegetables,4,produce,816,"[2445.0,5.0,38739.0,83.0,4.0,816.0]",5
+115,115,2445,23,41874,Villagio Marzano Heavenly Tomatoes,83,fresh vegetables,4,produce,816,"[2445.0,23.0,41874.0,83.0,4.0,816.0]",5
+116,116,2445,19,43735,Tomato Kumato,83,fresh vegetables,4,produce,816,"[2445.0,19.0,43735.0,83.0,4.0,816.0]",5
+117,117,2445,13,42265,Organic Baby Carrots,123,packaged vegetables fruits,4,produce,816,"[2445.0,13.0,42265.0,123.0,4.0,816.0]",5
+120,120,2445,30,38693,Meyer Lemon,24,fresh fruits,4,produce,816,"[2445.0,30.0,38693.0,24.0,4.0,816.0]",5
+132,132,2445,17,48057,"Hummus, Hope, Original Recipe",67,fresh dips tapenades,20,deli,816,"[2445.0,17.0,48057.0,67.0,20.0,816.0]",5
+133,133,2445,15,39182,"Soup, Traditional, with Tofu",66,asian foods,6,international,816,"[2445.0,15.0,39182.0,66.0,6.0,816.0]",5
+135,135,2445,33,39990,Vegetable Fried Rice,38,frozen meals,1,frozen,816,"[2445.0,33.0,39990.0,38.0,1.0,816.0]",5
+137,137,2445,1,40002,Strawberry Ice Cream,37,ice cream ice,1,frozen,816,"[2445.0,1.0,40002.0,37.0,1.0,816.0]",5
+140,140,4163,5,41008,Original Moisture Body Lotion,127,body lotions soap,11,personal care,222,"[4163.0,5.0,41008.0,127.0,11.0,222.0]",5
+141,141,4163,1,38318,Original Flavor Instant Oatmeal,130,hot cereal pancake mixes,14,breakfast,222,"[4163.0,1.0,38318.0,130.0,14.0,222.0]",5
+145,145,3733,22,48969,Cheese Plate Spanish,2,specialty cheeses,16,dairy eggs,605,"[3733.0,22.0,48969.0,2.0,16.0,605.0]",5
+148,148,3733,17,41625,Organic Half Spring Mix,123,packaged vegetables fruits,4,produce,605,"[3733.0,17.0,41625.0,123.0,4.0,605.0]",5
+157,157,3733,9,44187,Protein Caramel Nut Chewy Bars,48,breakfast bars pastries,14,breakfast,605,"[3733.0,9.0,44187.0,48.0,14.0,605.0]",5
+158,158,3733,10,44361,Spoon Size Wheat 'n Bran Shredded Wheat Cereal,121,cereal,14,breakfast,605,"[3733.0,10.0,44361.0,121.0,14.0,605.0]",5
+159,159,3733,1,38889,Perrier Lime,115,water seltzer sparkling water,7,beverages,605,"[3733.0,1.0,38889.0,115.0,7.0,605.0]",5
+160,160,3733,21,39936,Dark Espresso Roast Whole Bean Coffee,26,coffee,7,beverages,605,"[3733.0,21.0,39936.0,26.0,7.0,605.0]",5
+162,162,3733,14,47457,Flame Grilled Chicken Breast Strips,96,lunch meat,20,deli,605,"[3733.0,14.0,47457.0,96.0,20.0,605.0]",5
+168,168,3558,1,44479,Organic Stringles Mozzarella String Cheese,21,packaged cheese,16,dairy eggs,818,"[3558.0,1.0,44479.0,21.0,16.0,818.0]",5
+169,169,2199,15,47144,Unsweetened Original Almond Breeze Almond Milk,91,soy lactosefree,16,dairy eggs,150,"[2199.0,15.0,47144.0,91.0,16.0,150.0]",5
+176,176,2199,8,42972,Natural Pure Sparkling Water,115,water seltzer sparkling water,7,beverages,150,"[2199.0,8.0,42972.0,115.0,7.0,150.0]",5
+179,179,2199,7,49615,Cran-Apple Juice Drink,98,juice nectars,7,beverages,150,"[2199.0,7.0,49615.0,98.0,7.0,150.0]",5
+180,180,2199,3,47877,Coke Zero,77,soft drinks,7,beverages,150,"[2199.0,3.0,47877.0,77.0,7.0,150.0]",5
+192,192,3245,18,49176,Cinnamon Roll Dough With Icing,105,doughs gelatins bake mixes,13,pantry,917,"[3245.0,18.0,49176.0,105.0,13.0,917.0]",5
+202,202,3245,2,39982,Sausage  Links,42,frozen vegan vegetarian,1,frozen,917,"[3245.0,2.0,39982.0,42.0,1.0,917.0]",5
+209,209,637,1,49621,Challah Bread,112,bread,3,bakery,1177,"[637.0,1.0,49621.0,112.0,3.0,1177.0]",5
+221,221,4572,1,45154,Pure & Smooth Green Tea,94,tea,7,beverages,787,"[4572.0,1.0,45154.0,94.0,7.0,787.0]",5
+222,222,1520,3,45154,Pure & Smooth Green Tea,94,tea,7,beverages,787,"[1520.0,3.0,45154.0,94.0,7.0,787.0]",5
+223,223,4572,4,44585,Anti Viral Upright Facial Tissue,54,paper goods,17,household,787,"[4572.0,4.0,44585.0,54.0,17.0,787.0]",5
+226,226,5293,5,42701,Organic Sour Cream,108,other creams cheeses,16,dairy eggs,585,"[5293.0,5.0,42701.0,108.0,16.0,585.0]",5
+237,237,3927,14,40706,Organic Grape Tomatoes,123,packaged vegetables fruits,4,produce,583,"[3927.0,14.0,40706.0,123.0,4.0,583.0]",5
+243,243,3927,12,39984,Organic Dill,16,fresh herbs,4,produce,583,"[3927.0,12.0,39984.0,16.0,4.0,583.0]",5
+244,244,3927,27,43789,Organic Basil,16,fresh herbs,4,produce,583,"[3927.0,27.0,43789.0,16.0,4.0,583.0]",5
+246,246,3927,2,48328,Nutritional Yeast Flakes,17,baking ingredients,13,pantry,583,"[3927.0,2.0,48328.0,17.0,13.0,583.0]",5
+247,247,3927,15,38439,Mara Natha Organic Peanut Butter Creamy,88,spreads,13,pantry,583,"[3927.0,15.0,38439.0,88.0,13.0,583.0]",5
+248,248,3927,25,48017,Organic Hoisin Sauce,5,marinades meat preparation,13,pantry,583,"[3927.0,25.0,48017.0,5.0,13.0,583.0]",5
+262,262,214,9,40545,Berry Medley,116,frozen produce,1,frozen,503,"[214.0,9.0,40545.0,116.0,1.0,503.0]",5
+268,268,1770,17,46041,Beef Franks,106,hot dogs bacon sausage,12,meat seafood,678,"[1770.0,17.0,46041.0,106.0,12.0,678.0]",5
+272,272,1770,13,43457,Gentle Cleansing Bars,127,body lotions soap,11,personal care,678,"[1770.0,13.0,43457.0,127.0,11.0,678.0]",5
+275,275,1770,3,40621,Broccoli & Cauliflower,116,frozen produce,1,frozen,678,"[1770.0,3.0,40621.0,116.0,1.0,678.0]",5
+277,277,1770,5,45588,Pizzeria Style Classic Crust Pepperoni Pizza,79,frozen pizza,1,frozen,678,"[1770.0,5.0,45588.0,79.0,1.0,678.0]",5
+280,280,178,1,49235,Organic Half & Half,53,cream,16,dairy eggs,971,"[178.0,1.0,49235.0,53.0,16.0,971.0]",5
+284,284,988,1,45061,Natural Vanilla Ice Cream,37,ice cream ice,1,frozen,310,"[988.0,1.0,45061.0,37.0,1.0,310.0]",5
+288,288,4864,13,39276,Bananas,24,fresh fruits,4,produce,1072,"[4864.0,13.0,39276.0,24.0,4.0,1072.0]",5
+295,295,4864,9,46561,Organic Superfood Oat Based Espresso Maca Mulberry Cereal,130,hot cereal pancake mixes,14,breakfast,1072,"[4864.0,9.0,46561.0,130.0,14.0,1072.0]",5
+296,296,4864,4,48559,Synergy Organic Kombucha Gingerberry,31,refrigerated,7,beverages,1072,"[4864.0,4.0,48559.0,31.0,7.0,1072.0]",5
+298,298,4864,3,45603,Trilogy Kombucha Drink,31,refrigerated,7,beverages,1072,"[4864.0,3.0,45603.0,31.0,7.0,1072.0]",5
+299,299,4864,6,44613,"Ice Cream, Organic, Land of Milk and Honey",37,ice cream ice,1,frozen,1072,"[4864.0,6.0,44613.0,37.0,1.0,1072.0]",5
+307,307,3449,2,45223,Just Green Unsweetened Tea,94,tea,7,beverages,208,"[3449.0,2.0,45223.0,94.0,7.0,208.0]",5
+310,310,4515,4,38847,Organic Whole Kernel Unrefined Coconut Oil,19,oils vinegars,13,pantry,652,"[4515.0,4.0,38847.0,19.0,13.0,652.0]",5
+313,313,4515,2,43400,Raspberry Vinaigrette Salad Snax,50,fruit vegetable snacks,19,snacks,652,"[4515.0,2.0,43400.0,50.0,19.0,652.0]",5

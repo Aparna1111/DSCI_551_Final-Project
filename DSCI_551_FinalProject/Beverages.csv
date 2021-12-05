@@ -1,0 +1,24 @@
+,_c0,order_id,add_to_cart_order,product_id,product_name,aisle_id,aisle,department_id,department,user_id,features,prediction
+16,16,21708,1,27845,Organic Whole Milk,84,milk,16,dairy eggs,79,"[21708.0,1.0,27845.0,84.0,16.0,79.0]",3
+20,20,21708,8,16616,Organic Sliced White Mushrooms,123,packaged vegetables fruits,4,produce,79,"[21708.0,8.0,16616.0,123.0,4.0,79.0]",3
+21,21,21708,2,13176,Bag of Organic Bananas,24,fresh fruits,4,produce,79,"[21708.0,2.0,13176.0,24.0,4.0,79.0]",3
+25,25,21708,4,21137,Organic Strawberries,24,fresh fruits,4,produce,79,"[21708.0,4.0,21137.0,24.0,4.0,79.0]",3
+29,29,21708,3,19057,Organic Large Extra Fancy Fuji Apple,24,fresh fruits,4,produce,79,"[21708.0,3.0,19057.0,24.0,4.0,79.0]",3
+31,31,21708,9,23233,California Sourdough Bread,112,bread,3,bakery,79,"[21708.0,9.0,23233.0,112.0,3.0,79.0]",3
+72,72,13318,1,24852,Banana,24,fresh fruits,4,produce,56,"[13318.0,1.0,24852.0,24.0,4.0,56.0]",3
+76,76,14172,9,28156,Total 0% Nonfat Plain Greek Yogurt,120,yogurt,16,dairy eggs,382,"[14172.0,9.0,28156.0,120.0,16.0,382.0]",3
+83,83,14172,12,25890,Boneless Skinless Chicken Breasts,49,packaged poultry,12,meat seafood,382,"[14172.0,12.0,25890.0,49.0,12.0,382.0]",3
+85,85,13318,9,25890,Boneless Skinless Chicken Breasts,49,packaged poultry,12,meat seafood,56,"[13318.0,9.0,25890.0,49.0,12.0,56.0]",3
+185,185,20460,3,22959,Reduced Fat Milk 100% Lactose Free,91,soy lactosefree,16,dairy eggs,864,"[20460.0,3.0,22959.0,91.0,16.0,864.0]",3
+187,187,14287,3,21553,Lowfat 2% Milkfat Cottage Cheese,108,other creams cheeses,16,dairy eggs,757,"[14287.0,3.0,21553.0,108.0,16.0,757.0]",3
+206,206,20460,1,16995,Sliced Soppressata Salame,96,lunch meat,20,deli,864,"[20460.0,1.0,16995.0,96.0,20.0,864.0]",3
+212,212,14287,1,23909,2% Reduced Fat Milk,84,milk,16,dairy eggs,757,"[14287.0,1.0,23909.0,84.0,16.0,757.0]",3
+214,214,14287,5,17341,Presliced Everything Bagels,93,breakfast bakery,3,bakery,757,"[14287.0,5.0,17341.0,93.0,3.0,757.0]",3
+236,236,13318,3,21903,Organic Baby Spinach,123,packaged vegetables fruits,4,produce,56,"[13318.0,3.0,21903.0,123.0,4.0,56.0]",3
+286,286,11052,1,16283,Fresh Asparagus,83,fresh vegetables,4,produce,1039,"[11052.0,1.0,16283.0,83.0,4.0,1039.0]",3
+303,303,13318,8,26604,Organic Blackberries,24,fresh fruits,4,produce,56,"[13318.0,8.0,26604.0,24.0,4.0,56.0]",3
+304,304,13318,5,13565,No Salt Added Gluten-Free Blue Chips Made with Organic Blue Corn,107,chips pretzels,19,snacks,56,"[13318.0,5.0,13565.0,107.0,19.0,56.0]",3
+305,305,13318,2,25513,Boomchickapop Sea Salt Popcorn,23,popcorn jerky,19,snacks,56,"[13318.0,2.0,25513.0,23.0,19.0,56.0]",3
+336,336,15213,4,29529,Lemon-Lime Soda,77,soft drinks,7,beverages,923,"[15213.0,4.0,29529.0,77.0,7.0,923.0]",3
+337,337,15213,1,22313,Adult Chicken & Rice Dry Dog Food,40,dog food care,8,pets,923,"[15213.0,1.0,22313.0,40.0,8.0,923.0]",3
+341,341,15694,1,14197,Tomato Paste,9,pasta sauce,9,dry goods pasta,361,"[15694.0,1.0,14197.0,9.0,9.0,361.0]",3
