@@ -1,4 +1,4 @@
-# DSCI_551_Final-Project
+# Online Grocery Recommendation System
 
 ### Inside the folder DSCI_551_FinalProject please find the followed attached: 
 - grocery_recommendarions.ipynb file contains the code to upload and retrieve data from firestore, data preprocessing and exploration, Spark Kmeans Clustering Model and Image Classification model. 
